@@ -1,0 +1,12 @@
+	=		1		NULL		a
+	=		2		NULL		b
+	=		3		NULL		c
+	=		4		NULL		d
+	=		5		NULL		e
+	=		6		NULL		f
+	*		e		f		t0
+	=		t0		NULL		i
+	*		a		b		t1
+	=		t1		NULL		g
+	*		c		d		t2
+	=		t2		NULL		h
